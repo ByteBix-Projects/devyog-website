@@ -24,7 +24,7 @@ You can run the website locally using any of the following methods:
 ```bash
 npm start
 # or
-node server.js
+node scripts/server.js
 ```
 Open [http://localhost:3000](http://localhost:3000) (or the fallback port indicated in the terminal) in your browser.
 

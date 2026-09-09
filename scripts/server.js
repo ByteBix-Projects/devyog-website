@@ -1,9 +1,8 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
-
 let currentPort = parseInt(process.env.PORT || '3000', 10);
-const DIST_DIR = path.join(__dirname, 'dist');
+const DIST_DIR = path.join(__dirname, '..', 'dist');
 
 const MIME_TYPES = {
   '.html': 'text/html; charset=UTF-8',
