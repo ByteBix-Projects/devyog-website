@@ -2,7 +2,6 @@
   "name": "devyog-source-code",
   "version": "1.0.0",
   "description": "DevYog - Responsive yoga studio website for urban Indian adults",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
