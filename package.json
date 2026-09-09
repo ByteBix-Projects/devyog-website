@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "DevYog - Responsive yoga studio website for urban Indian adults",
   "scripts": {
+    "build": "echo 'Static build ready'",
     "start": "node scripts/server.js",
     "dev": "node scripts/server.js",
     "serve": "npx serve dist"
