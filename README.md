@@ -18,23 +18,16 @@ Generated using the built-in image generation tool. No logos, text, or watermark
 
 ## Running on Localhost
 
-You can run the website locally using any of the following methods:
+This is a pure static website (HTML, CSS, JS). You can run it locally using any static web server:
 
-### Option 1: Node.js (Zero external dependencies)
+### Option 1: npx serve
 ```bash
-npm start
-# or
-node scripts/server.js
+npx serve
 ```
-Open [http://localhost:3000](http://localhost:3000) (or the fallback port indicated in the terminal) in your browser.
 
 ### Option 2: Python 3
 ```bash
-cd dist && python3 -m http.server 3000
+python3 -m http.server 3000
 ```
-
-### Option 3: npx serve
-```bash
-npm run serve
-```
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
