@@ -1,5 +1,7 @@
 # DevYog
 
+**Live Demo**: [https://bytebix-projects.github.io/devyog-website/](https://bytebix-projects.github.io/devyog-website/)
+
 Responsive yoga studio website for urban Indian adults who prioritise wellbeing and a gently spiritual daily life. The positioning is refined, approachable, and rooted in Indian yoga traditions, with no prescribed beliefs or health guarantees.
 
 Includes class filtering, expandable catalog, program and editorial dialogs, mobile navigation, and FAQs. Memberships, subscriptions, video streaming, and bookings are not connected; related actions disclose this clearly.
